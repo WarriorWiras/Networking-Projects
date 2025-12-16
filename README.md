@@ -27,7 +27,7 @@ To explore the content, click on the respective folders.
 
 This repository was created as part of a school project and is intended for educational purposes only.  
 All network simulations are performed in a controlled environment.  
-Cisco Packet Tracer is a proprietary tool by Cisco Systems, and Miro.com is a visual collaboration platform — both are used here under their respective licenses for non-commercial academic use.
+Cisco Packet Tracer is a proprietary tool by Cisco Systems, and Miro.com is a visual collaboration platform - both are used here under their respective licenses for non-commercial academic use.
 
 ---
 
